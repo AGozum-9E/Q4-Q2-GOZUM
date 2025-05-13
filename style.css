@@ -1,0 +1,39 @@
+body{
+	
+	color: black;
+	font-family: Times New Roman;
+	background-color: #0C0A3E;
+	text-align: center;
+	padding: 40px;
+
+}
+
+.container {
+	background-color: white;
+	border-radius: 10px;
+	width: 600px;
+
+	}
+
+input {
+	padding: 8px;
+}
+
+h2 {
+	background-color:lightgrey;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.bgmath {
+	color: darkblue;
+}
+
+.bgsci {
+	color: darkgreen;
+}
+
+.bgeng {
+	color: darkred;
+}
+
